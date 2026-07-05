@@ -2,6 +2,8 @@
 
 AI 기반 사이버 방어 훈련 및 운영 보조 데모입니다. 교육생은 합성 시나리오에서 보안 장비 형태의 목업 데이터를 조회하고, 근거를 pin한 뒤 판단을 제출합니다. 같은 evidence model은 운영 대시보드와 헬프데스크 화면에서도 재사용되어 사건, 사후강평, 문의 해결 기록이 지식으로 축적되는 흐름을 보여 줍니다.
 
+발표 자료: [PDF](assets/presentation/cert-copilot/cert-copilot-presentation.pdf) · [PPTX](assets/presentation/cert-copilot/cert-copilot-presentation.pptx)
+
 ![CERT-Copilot overview](assets/cert-copilot-main-diagram.png)
 
 ## 핵심 요약
