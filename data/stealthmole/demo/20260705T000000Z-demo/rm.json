@@ -1,0 +1,492 @@
+{
+  "service": "rm",
+  "synthetic": true,
+  "stats": {
+    "requested": 60,
+    "collected": 60,
+    "pages": 1,
+    "totalCount": 12040
+  },
+  "records": [
+    {
+      "victim": "demo-victim-a***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "US",
+      "detected_at": "2026-05-01",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-b***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "KR",
+      "detected_at": "2026-06-02",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-c***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "JP",
+      "detected_at": "2026-07-03",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-d***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "DE",
+      "detected_at": "2026-05-04",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-e***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "UK",
+      "detected_at": "2026-06-05",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-f***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "US",
+      "detected_at": "2026-07-06",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-g***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "KR",
+      "detected_at": "2026-05-07",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-h***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "JP",
+      "detected_at": "2026-06-08",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-i***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "DE",
+      "detected_at": "2026-07-09",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-j***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "UK",
+      "detected_at": "2026-05-10",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-k***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "US",
+      "detected_at": "2026-06-11",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-l***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "KR",
+      "detected_at": "2026-07-12",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-m***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "JP",
+      "detected_at": "2026-05-13",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-n***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "DE",
+      "detected_at": "2026-06-14",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-o***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "UK",
+      "detected_at": "2026-07-15",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-p***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "US",
+      "detected_at": "2026-05-16",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-q***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "KR",
+      "detected_at": "2026-06-17",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-r***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "JP",
+      "detected_at": "2026-07-18",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-s***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "DE",
+      "detected_at": "2026-05-19",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-t***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "UK",
+      "detected_at": "2026-06-20",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-u***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "US",
+      "detected_at": "2026-07-21",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-v***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "KR",
+      "detected_at": "2026-05-22",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-w***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "JP",
+      "detected_at": "2026-06-23",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-x***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "DE",
+      "detected_at": "2026-07-24",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-y***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "UK",
+      "detected_at": "2026-05-25",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-z***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "US",
+      "detected_at": "2026-06-26",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-a***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "KR",
+      "detected_at": "2026-07-27",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-b***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "JP",
+      "detected_at": "2026-05-01",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-c***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "DE",
+      "detected_at": "2026-06-02",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-d***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "UK",
+      "detected_at": "2026-07-03",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-e***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "US",
+      "detected_at": "2026-05-04",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-f***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "KR",
+      "detected_at": "2026-06-05",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-g***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "JP",
+      "detected_at": "2026-07-06",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-h***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "DE",
+      "detected_at": "2026-05-07",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-i***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "UK",
+      "detected_at": "2026-06-08",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-j***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "US",
+      "detected_at": "2026-07-09",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-k***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "KR",
+      "detected_at": "2026-05-10",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-l***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "JP",
+      "detected_at": "2026-06-11",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-m***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "DE",
+      "detected_at": "2026-07-12",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-n***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "UK",
+      "detected_at": "2026-05-13",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-o***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "US",
+      "detected_at": "2026-06-14",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-p***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "KR",
+      "detected_at": "2026-07-15",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-q***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "JP",
+      "detected_at": "2026-05-16",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-r***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "DE",
+      "detected_at": "2026-06-17",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-s***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "UK",
+      "detected_at": "2026-07-18",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-t***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "US",
+      "detected_at": "2026-05-19",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-u***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "KR",
+      "detected_at": "2026-06-20",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-v***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "JP",
+      "detected_at": "2026-07-21",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-w***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "DE",
+      "detected_at": "2026-05-22",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-x***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "UK",
+      "detected_at": "2026-06-23",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-y***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "US",
+      "detected_at": "2026-07-24",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-z***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "KR",
+      "detected_at": "2026-05-25",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-a***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "JP",
+      "detected_at": "2026-06-26",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-b***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "DE",
+      "detected_at": "2026-07-27",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-c***",
+      "attack_group": "lockbit3",
+      "sector": "manufacturing",
+      "country": "UK",
+      "detected_at": "2026-05-01",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-d***",
+      "attack_group": "ransomhub",
+      "sector": "healthcare",
+      "country": "US",
+      "detected_at": "2026-06-02",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-e***",
+      "attack_group": "play",
+      "sector": "education",
+      "country": "KR",
+      "detected_at": "2026-07-03",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-f***",
+      "attack_group": "akira",
+      "sector": "finance",
+      "country": "JP",
+      "detected_at": "2026-05-04",
+      "has_proof_url": true
+    },
+    {
+      "victim": "demo-victim-g***",
+      "attack_group": "qilin",
+      "sector": "logistics",
+      "country": "DE",
+      "detected_at": "2026-06-05",
+      "has_proof_url": false
+    },
+    {
+      "victim": "demo-victim-h***",
+      "attack_group": "blackbasta",
+      "sector": "public",
+      "country": "UK",
+      "detected_at": "2026-07-06",
+      "has_proof_url": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Legacy pip compatibility file.
+#
+# Dependency source of truth is now:
+#
+#   pyproject.toml + uv.lock
+#
+# Use:
+#
+#   uv sync --frozen
+#   uv run python -m unittest discover -s tests
+#
+# Keep this file only for tooling that cannot consume uv yet.
+fastapi>=0.111,<1
+uvicorn>=0.30,<1
+httpx>=0.27,<1
+psycopg[binary]>=3.2,<4  # PostgreSQL repository adapter

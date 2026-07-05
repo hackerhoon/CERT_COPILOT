@@ -1,0 +1,37 @@
+{
+  "run": "20260705T000000Z-demo",
+  "synthetic": true,
+  "note": "완전 합성 demo 데이터셋 — 실제 유출/수집 데이터와 무관. 실수집 데이터셋(data/stealthmole/dataset/, git-ignored)이 없을 때 dataset_loader가 이 런으로 폴백한다. 재생성: uv run python -m d4d.build_demo_dataset",
+  "feeds": {
+    "rm": {
+      "requested": 60,
+      "collected": 60,
+      "pages": 1,
+      "totalCount": 12040
+    },
+    "cl": {
+      "requested": 40,
+      "collected": 40,
+      "pages": 1,
+      "totalCount": 850000
+    },
+    "cds": {
+      "requested": 30,
+      "collected": 30,
+      "pages": 1,
+      "totalCount": 41200
+    },
+    "gm": {
+      "requested": 20,
+      "collected": 20,
+      "pages": 1,
+      "totalCount": 3200
+    },
+    "lm": {
+      "requested": 20,
+      "collected": 20,
+      "pages": 1,
+      "totalCount": 58000
+    }
+  }
+}

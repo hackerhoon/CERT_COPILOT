@@ -1,0 +1,342 @@
+{
+  "service": "cds",
+  "synthetic": true,
+  "stats": {
+    "requested": 30,
+    "collected": 30,
+    "pages": 1,
+    "totalCount": 41200
+  },
+  "records": [
+    {
+      "id": "demo-cds0000***",
+      "host": "https://portal-***.example.com",
+      "user": "user00***",
+      "password": "***(len=10)",
+      "ip": "203.0.113.10",
+      "username": "u***0",
+      "computername": "PC-DEMO-***0",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0001***",
+      "host": "https://portal-***.example.com",
+      "user": "user01***",
+      "password": "***(len=11)",
+      "ip": "203.0.113.11",
+      "username": "u***1",
+      "computername": "PC-DEMO-***1",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0002***",
+      "host": "https://portal-***.example.com",
+      "user": "user02***",
+      "password": "***(len=12)",
+      "ip": "203.0.113.12",
+      "username": "u***2",
+      "computername": "PC-DEMO-***2",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0003***",
+      "host": "https://portal-***.example.com",
+      "user": "user03***",
+      "password": "***(len=13)",
+      "ip": "203.0.113.13",
+      "username": "u***3",
+      "computername": "PC-DEMO-***3",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0004***",
+      "host": "https://portal-***.example.com",
+      "user": "user04***",
+      "password": "***(len=14)",
+      "ip": "203.0.113.14",
+      "username": "u***4",
+      "computername": "PC-DEMO-***4",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0005***",
+      "host": "https://portal-***.example.com",
+      "user": "user05***",
+      "password": "***(len=15)",
+      "ip": "203.0.113.15",
+      "username": "u***5",
+      "computername": "PC-DEMO-***5",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0006***",
+      "host": "https://portal-***.example.com",
+      "user": "user06***",
+      "password": "***(len=10)",
+      "ip": "203.0.113.16",
+      "username": "u***6",
+      "computername": "PC-DEMO-***6",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0007***",
+      "host": "https://portal-***.example.com",
+      "user": "user07***",
+      "password": "***(len=11)",
+      "ip": "203.0.113.17",
+      "username": "u***0",
+      "computername": "PC-DEMO-***7",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0008***",
+      "host": "https://portal-***.example.com",
+      "user": "user08***",
+      "password": "***(len=12)",
+      "ip": "203.0.113.18",
+      "username": "u***1",
+      "computername": "PC-DEMO-***8",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0009***",
+      "host": "https://portal-***.example.com",
+      "user": "user09***",
+      "password": "***(len=13)",
+      "ip": "203.0.113.19",
+      "username": "u***2",
+      "computername": "PC-DEMO-***0",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0010***",
+      "host": "https://portal-***.example.com",
+      "user": "user10***",
+      "password": "***(len=14)",
+      "ip": "203.0.113.20",
+      "username": "u***3",
+      "computername": "PC-DEMO-***1",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0011***",
+      "host": "https://portal-***.example.com",
+      "user": "user11***",
+      "password": "***(len=15)",
+      "ip": "203.0.113.21",
+      "username": "u***4",
+      "computername": "PC-DEMO-***2",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0012***",
+      "host": "https://portal-***.example.com",
+      "user": "user12***",
+      "password": "***(len=10)",
+      "ip": "203.0.113.22",
+      "username": "u***5",
+      "computername": "PC-DEMO-***3",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0013***",
+      "host": "https://portal-***.example.com",
+      "user": "user13***",
+      "password": "***(len=11)",
+      "ip": "203.0.113.23",
+      "username": "u***6",
+      "computername": "PC-DEMO-***4",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0014***",
+      "host": "https://portal-***.example.com",
+      "user": "user14***",
+      "password": "***(len=12)",
+      "ip": "203.0.113.24",
+      "username": "u***0",
+      "computername": "PC-DEMO-***5",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0015***",
+      "host": "https://portal-***.example.com",
+      "user": "user15***",
+      "password": "***(len=13)",
+      "ip": "203.0.113.25",
+      "username": "u***1",
+      "computername": "PC-DEMO-***6",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0016***",
+      "host": "https://portal-***.example.com",
+      "user": "user16***",
+      "password": "***(len=14)",
+      "ip": "203.0.113.26",
+      "username": "u***2",
+      "computername": "PC-DEMO-***7",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0017***",
+      "host": "https://portal-***.example.com",
+      "user": "user17***",
+      "password": "***(len=15)",
+      "ip": "203.0.113.27",
+      "username": "u***3",
+      "computername": "PC-DEMO-***8",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0018***",
+      "host": "https://portal-***.example.com",
+      "user": "user18***",
+      "password": "***(len=10)",
+      "ip": "203.0.113.28",
+      "username": "u***4",
+      "computername": "PC-DEMO-***0",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0019***",
+      "host": "https://portal-***.example.com",
+      "user": "user19***",
+      "password": "***(len=11)",
+      "ip": "203.0.113.29",
+      "username": "u***5",
+      "computername": "PC-DEMO-***1",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0020***",
+      "host": "https://portal-***.example.com",
+      "user": "user20***",
+      "password": "***(len=12)",
+      "ip": "203.0.113.30",
+      "username": "u***6",
+      "computername": "PC-DEMO-***2",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0021***",
+      "host": "https://portal-***.example.com",
+      "user": "user21***",
+      "password": "***(len=13)",
+      "ip": "203.0.113.31",
+      "username": "u***0",
+      "computername": "PC-DEMO-***3",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0022***",
+      "host": "https://portal-***.example.com",
+      "user": "user22***",
+      "password": "***(len=14)",
+      "ip": "203.0.113.32",
+      "username": "u***1",
+      "computername": "PC-DEMO-***4",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0023***",
+      "host": "https://portal-***.example.com",
+      "user": "user23***",
+      "password": "***(len=15)",
+      "ip": "203.0.113.33",
+      "username": "u***2",
+      "computername": "PC-DEMO-***5",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0024***",
+      "host": "https://portal-***.example.com",
+      "user": "user24***",
+      "password": "***(len=10)",
+      "ip": "203.0.113.34",
+      "username": "u***3",
+      "computername": "PC-DEMO-***6",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0025***",
+      "host": "https://portal-***.example.com",
+      "user": "user25***",
+      "password": "***(len=11)",
+      "ip": "203.0.113.35",
+      "username": "u***4",
+      "computername": "PC-DEMO-***7",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0026***",
+      "host": "https://portal-***.example.com",
+      "user": "user26***",
+      "password": "***(len=12)",
+      "ip": "203.0.113.36",
+      "username": "u***5",
+      "computername": "PC-DEMO-***8",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    },
+    {
+      "id": "demo-cds0027***",
+      "host": "https://portal-***.example.com",
+      "user": "user27***",
+      "password": "***(len=13)",
+      "ip": "203.0.113.37",
+      "username": "u***6",
+      "computername": "PC-DEMO-***0",
+      "leaked_date": "2026-04",
+      "stealer": "redline"
+    },
+    {
+      "id": "demo-cds0028***",
+      "host": "https://portal-***.example.com",
+      "user": "user28***",
+      "password": "***(len=14)",
+      "ip": "203.0.113.38",
+      "username": "u***0",
+      "computername": "PC-DEMO-***1",
+      "leaked_date": "2026-05",
+      "stealer": "lumma"
+    },
+    {
+      "id": "demo-cds0029***",
+      "host": "https://portal-***.example.com",
+      "user": "user29***",
+      "password": "***(len=15)",
+      "ip": "203.0.113.39",
+      "username": "u***1",
+      "computername": "PC-DEMO-***2",
+      "leaked_date": "2026-06",
+      "stealer": "vidar"
+    }
+  ]
+}

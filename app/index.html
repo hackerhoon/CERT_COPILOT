@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cyber Defense Readiness Simulator</title>
+  <link rel="stylesheet" href="css/styles.css?v=training-tour-auto">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-top">
+      <div class="app-brand">
+        <strong>Cyber Defense Readiness Simulator</strong>
+        <span>T5 메인 · 실전형 사이버방호 훈련</span>
+      </div>
+      <div class="app-mode">
+        <button class="mode-tab" data-mode-tab="training" type="button">훈련 모드</button>
+        <button class="mode-tab" data-mode-tab="ops" type="button">사이버 방호 대시보드</button>
+        <button class="mode-tab" data-mode-tab="helpdesk" type="button">헬프데스크</button>
+        <span class="mode-badge" data-mock="true">연결 확인 중</span>
+      </div>
+      <div class="app-status">
+        <span>역할: 통합보안관제센터 운영 담당자</span>
+        <span class="app-clock" aria-label="session clock">--:--:--</span>
+      </div>
+    </header>
+
+    <div class="app-body">
+      <aside class="side-nav" aria-label="app navigation">
+        <div class="nav-group" data-nav-mode="training">
+          <strong>훈련 흐름</strong>
+          <a data-nav="home" href="#/home">훈련 홈</a>
+          <a data-nav="scenarios" href="#/scenarios">시나리오 선택</a>
+          <a data-nav="briefing" href="#/scenarios">임무 브리핑</a>
+          <a data-nav="mission" href="#/scenarios">미션 데스크</a>
+          <a data-nav="aar" href="#/scenarios">사후 강평</a>
+        </div>
+        <div class="nav-group" data-nav-mode="ops">
+          <strong>사이버 방호 대시보드</strong>
+          <a data-nav="dashboard" href="#/dashboard">통합 대시보드</a>
+          <a data-nav="dashboard-equipment" href="#/dashboard/equipment">보안 장비 상태</a>
+          <a data-nav="dashboard-threats" href="#/dashboard/threats">위협 동향</a>
+          <a data-nav="dashboard-search" href="#/dashboard/search">통합 검색</a>
+          <a data-nav="ops-incidents" href="#/ops/incidents">상위 조직/하급제대 전파/수신</a>
+          <a data-nav="ops-notifications" href="#/ops/notifications">알림 피드</a>
+        </div>
+        <div class="nav-group" data-nav-mode="helpdesk">
+          <strong>헬프데스크</strong>
+          <a data-nav="helpdesk-inbox" href="#/helpdesk/inbox">인입 채팅</a>
+          <a data-nav="helpdesk" href="#/helpdesk">헬프데스크</a>
+          <a data-nav="helpdesk-integrations" href="#/helpdesk/integrations">연동 상태</a>
+          <a data-nav="knowledge" href="#/knowledge">지식DB</a>
+        </div>
+        <div class="nav-note">
+          <span>모드</span>
+          <small data-api-status>연결 상태 확인 중</small>
+        </div>
+        <button class="nav-reset" id="btn-reset" type="button">데모 초기화</button>
+      </aside>
+
+      <main id="screen" class="screen" role="main"></main>
+    </div>
+
+    <footer class="app-foot" role="contentinfo">
+      <span class="foot-dot" aria-hidden="true"></span>
+      전 화면 데이터는 synthetic/masked 샘플입니다 · 실제 라이브 데이터·자격증명·식별번호·내부 체계명 없음 · write-like 조치는 승인 요청 제안까지만
+    </footer>
+  </div>
+
+  <!-- classic scripts, dependency order; works from file:// and static servers -->
+  <script src="js/config.js?v=ops-tooltips"></script>
+  <script src="js/ui.js?v=ops-tooltips"></script>
+  <script src="js/tour.js?v=ops-tooltips"></script>
+  <script src="js/store.js?v=ops-tooltips"></script>
+  <script src="js/api/mock.js?v=ops-tooltips"></script>
+  <script src="js/api/client.js?v=ops-tooltips"></script>
+  <script src="js/screens/home.js?v=ops-tooltips"></script>
+  <script src="js/screens/scenarios.js?v=ops-tooltips"></script>
+  <script src="js/screens/briefing.js?v=ops-tooltips"></script>
+  <script src="js/screens/missionDesk.js?v=ops-tooltips"></script>
+  <script src="js/screens/aar.js?v=ops-tooltips"></script>
+  <script src="js/screens/ops.js?v=ops-tooltips"></script>
+  <script src="js/router.js?v=ops-tooltips"></script>
+  <script src="js/app.js?v=ops-tooltips"></script>
+</body>
+</html>

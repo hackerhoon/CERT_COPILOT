@@ -1,0 +1,332 @@
+{
+  "service": "cl",
+  "synthetic": true,
+  "stats": {
+    "requested": 40,
+    "collected": 40,
+    "pages": 1,
+    "totalCount": 850000
+  },
+  "records": [
+    {
+      "id": "demo0000***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u00***@e***.com",
+      "password": "***(len=8)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0001***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u01***@e***.com",
+      "password": "***(len=9)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0002***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u02***@e***.com",
+      "password": "***(len=10)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0003***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u03***@e***.com",
+      "password": "***(len=11)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0004***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u04***@e***.com",
+      "password": "***(len=12)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0005***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u05***@e***.com",
+      "password": "***(len=13)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0006***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u06***@e***.com",
+      "password": "***(len=14)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0007***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u07***@e***.com",
+      "password": "***(len=15)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0008***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u08***@e***.com",
+      "password": "***(len=16)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0009***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u09***@e***.com",
+      "password": "***(len=8)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0010***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u10***@e***.com",
+      "password": "***(len=9)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0011***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u11***@e***.com",
+      "password": "***(len=10)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0012***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u12***@e***.com",
+      "password": "***(len=11)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0013***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u13***@e***.com",
+      "password": "***(len=12)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0014***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u14***@e***.com",
+      "password": "***(len=13)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0015***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u15***@e***.com",
+      "password": "***(len=14)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0016***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u16***@e***.com",
+      "password": "***(len=15)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0017***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u17***@e***.com",
+      "password": "***(len=16)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0018***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u18***@e***.com",
+      "password": "***(len=8)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0019***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u19***@e***.com",
+      "password": "***(len=9)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0020***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u20***@e***.com",
+      "password": "***(len=10)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0021***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u21***@e***.com",
+      "password": "***(len=11)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0022***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u22***@e***.com",
+      "password": "***(len=12)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0023***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u23***@e***.com",
+      "password": "***(len=13)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0024***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u24***@e***.com",
+      "password": "***(len=14)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0025***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u25***@e***.com",
+      "password": "***(len=15)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0026***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u26***@e***.com",
+      "password": "***(len=16)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0027***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u27***@e***.com",
+      "password": "***(len=8)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0028***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u28***@e***.com",
+      "password": "***(len=9)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0029***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u29***@e***.com",
+      "password": "***(len=10)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0030***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u30***@e***.com",
+      "password": "***(len=11)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0031***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u31***@e***.com",
+      "password": "***(len=12)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0032***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u32***@e***.com",
+      "password": "***(len=13)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0033***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u33***@e***.com",
+      "password": "***(len=14)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0034***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u34***@e***.com",
+      "password": "***(len=15)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0035***",
+      "domain": "gma***",
+      "user": "",
+      "email": "u35***@e***.com",
+      "password": "***(len=16)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0036***",
+      "domain": "nav***",
+      "user": "",
+      "email": "u36***@e***.com",
+      "password": "***(len=8)",
+      "leaked_date": "2026-04"
+    },
+    {
+      "id": "demo0037***",
+      "domain": "corp-a***",
+      "user": "",
+      "email": "u37***@e***.com",
+      "password": "***(len=9)",
+      "leaked_date": "2026-05"
+    },
+    {
+      "id": "demo0038***",
+      "domain": "corp-b***",
+      "user": "",
+      "email": "u38***@e***.com",
+      "password": "***(len=10)",
+      "leaked_date": "2026-06"
+    },
+    {
+      "id": "demo0039***",
+      "domain": "univ-c***",
+      "user": "",
+      "email": "u39***@e***.com",
+      "password": "***(len=11)",
+      "leaked_date": "2026-04"
+    }
+  ]
+}
